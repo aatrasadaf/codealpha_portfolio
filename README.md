@@ -12,12 +12,7 @@ This website includes smooth animations, hover effects, category-based project f
 ---
 
 ## 🚀 Live Demo
-🔗 **Coming Soon** (Will update after GitHub Pages deployment)
-
----
-
-## 📸 Preview  
-(You can add screenshots here later)
+🔗  https://aatrasadaf.github.io/codealpha_portfolio/
 
 ---
 
